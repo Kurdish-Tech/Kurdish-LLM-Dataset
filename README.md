@@ -3,7 +3,7 @@
 > **A foundational Open-Source Dataset for Kurdish NLP, Machine Learning, and Large Language Models (LLMs).**
 
 > ⚠️ **This dataset has been superseded.** The current, actively maintained version is
-> **[KurdishCorpus-clean](https://huggingface.co/kurdish-tech/KurdishCorpus-clean)** on Hugging Face —
+> **[KurdishCorpus-clean](https://huggingface.co/datasets/kurdish-tech/KurdishCorpus-clean)** on Hugging Face —
 > 2.7M documents / 2.97B tokens across Kurmancî, Soranî, and Zazakî, deduplicated and quality-filtered,
 > under clear open licenses. Use that one for new work; this repo is kept for historical reference.
 
