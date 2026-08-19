@@ -28,7 +28,7 @@ This project is maintained by **Kurdish-Tech**. We believe in the power of open 
 
 ## 📄 License
 Licensed under **[CC BY-SA 4.0](LICENSE)** — matching the license used by its successor,
-[KurdishCorpus-clean](https://huggingface.co/kurdish-tech/KurdishCorpus-clean). You're free to share and
+[KurdishCorpus-clean](https://huggingface.co/datasets/kurdish-tech/KurdishCorpus-clean). You're free to share and
 adapt this data, including commercially, as long as you give attribution and license any derivative
 under the same terms.
 
